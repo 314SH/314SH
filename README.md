@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @314SH
-- 👀 I’m interested in Learning to code for data analysis
+- 👀 I’m interested in Learning to code for data analysis (python, SQL ...)
 - 🌱 I’m currently learning HTML/CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
